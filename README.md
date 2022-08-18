@@ -31,3 +31,12 @@ import sqlalchemy
 ### Codes and Usage
 
 See the codes I have written in file named "[etf_analyzer.ipynb](https://github.com/lenmunar30/Module-7-ETF-Analyzer/blob/main/Starter_Code/etf_analyzer.ipynb)"
+
+A. Below shows the first five rows of the DataFrame. 
+
+![image](https://user-images.githubusercontent.com/108433370/185276738-75da5bbf-1007-40fe-8b28-f6ce45365167.png)
+
+
+
+A. Below shows the last five rows of the DataFrame. 
+
