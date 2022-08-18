@@ -30,4 +30,4 @@ import sqlalchemy
 
 ### Codes and Usage
 
-See the codes I have written in file named "etf_analyzer.ipynb(https://github.com/lenmunar30/Module-7-ETF-Analyzer/blob/main/Starter_Code/etf_analyzer.ipynb)"
+See the codes I have written in file named "[etf_analyzer.ipynb](https://github.com/lenmunar30/Module-7-ETF-Analyzer/blob/main/Starter_Code/etf_analyzer.ipynb)"
